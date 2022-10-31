@@ -2,7 +2,7 @@ import pygame
 from pygame.locals import *
 import time
 import random
-#
+
 
 class Base(object):
     def __init__(self, screen_tmp, x, y, image_name):
